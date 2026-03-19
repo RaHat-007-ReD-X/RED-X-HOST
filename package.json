@@ -9,7 +9,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": ["uptime","monitor","dashboard","nodejs","express"],
-  "author": "Your Name",
+  "author": "BaYjid",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.0",
